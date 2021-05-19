@@ -46,6 +46,7 @@ ul.top_menu {
 }
 .image_area{
   width: 100%;
+  height: auto;
 }
 .wrapper{
   margin-top: 10px;
